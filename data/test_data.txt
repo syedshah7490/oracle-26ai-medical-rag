@@ -1,0 +1,6 @@
+Oracle Database 23ai is the latest version of Oracle's relational database.
+It includes AI Vector Search, which allows users to store and query vectors.
+RAG stands for Retrieval-Augmented Generation.
+RAG combines document retrieval with large language models to answer questions.
+Oracle uses the DBMS_VECTOR package to generate and manage vectors.
+Ollama is a tool that runs large language models locally on your computer.

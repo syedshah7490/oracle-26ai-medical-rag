@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Private environment variables
+.env
+.env.*
+!.env.example
+
+# WHO source documents
+data/*.pdf
+
+# Oracle credentials and wallet files
+*.pem
+*.key
+*.sso
+*.p12
+*.jks
+tnsnames.ora
+sqlnet.ora
+
+# Local databases and generated indexes
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+vector_store/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Runtime files
+*.log
+temp/
+uploads/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
