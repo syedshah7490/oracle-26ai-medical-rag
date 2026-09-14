@@ -9,6 +9,7 @@ __pycache__
 data
 *.pdf
 *.txt
+!requirements.txt
 azure_ingest.py
 ingest_pdf.py
 rag_query.py
